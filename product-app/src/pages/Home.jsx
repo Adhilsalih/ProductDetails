@@ -49,7 +49,7 @@ const handleSort = (e) => {
 
   return (
    <div className="max-w-6xl mx-auto px-4 py-6">
-  <h1 className="text-3xl font-bold mb-6 text-center" style={{backgroundColor:"lightslategray",padding:"2px opx",color:"blackz"}}>PRODUCTS</h1>
+  <h1 className="text-3xl font-bold mb-6 text-center" style={{backgroundColor:"#373737",padding:"2px opx",color:"lightslategray"}}>PRODUCTS</h1>
   <div className="flex flex-col sm:flex-row items-center gap-4 mb-6">
     <SearchBar />
     <FilterBar />
