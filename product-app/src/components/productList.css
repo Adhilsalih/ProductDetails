@@ -6,3 +6,17 @@
   gap: 20px;
   padding: 20px;
 }
+.pagination{
+  align-items: center;
+  justify-content: center;
+  background-color: #373737;
+  color: white;
+}
+.page-btn{
+  align-items: center;
+  justify-content: center;
+  margin: 5px 5px;
+  background-color: lightslategrey;
+  color: white;
+  transition: background-color 0.3s ease;
+}
